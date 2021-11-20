@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/amanfangeria/){:target="_blank"} & [Twitter](https://twitter.com/aman_fangeria/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/amanfangeria/) & [Twitter](https://twitter.com/aman_fangeria/)
 
 - ⚡ Fun fact **I love to watch series and movies.**
 
@@ -67,7 +67,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/amanfangeria/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/amanfangeria/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aman_fangeria"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/amanfangeria/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://bio.link/amanfang"><a href = "https://bio.link/amanfang"><img src="https://img.icons8.com/fluency/48/000000/link.png"/></a>
