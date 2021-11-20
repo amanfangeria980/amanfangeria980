@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/amanfangeria/) & [Twitter](https://twitter.com/aman_fangeria)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/amanfangeria/){target="_blank"} & [Twitter](https://twitter.com/aman_fangeria)
 
 - ⚡ Fun fact **I love to watch series and movies.**
 
