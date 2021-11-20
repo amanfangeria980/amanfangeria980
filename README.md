@@ -81,3 +81,4 @@
     <img src="https://komarev.com/ghpvc/?username=amanfangeria980">
 </a>
 <a href="https://github.com/amanfangeria980?tab=followers"><img src="https://img.shields.io/github/followers/amanfangeria980?label=Followers&style=social" alt="GitHub Badge"></a>
+<a onclick="window.open(this.href,'_blank');return false;" href="http://www.linkedin.com/in/amanfangeria">LinkedIn</a>
