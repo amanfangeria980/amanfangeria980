@@ -42,24 +42,24 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" width="48" height="48"/> </a>
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="48" height="48"/> </a>
 <!--     <a><img src="https://www.pngall.com/wp-content/uploads/5/Vertical-Line-PNG-Images.png" alt="-><-" width="48" height="48"> </a> -->
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/vxm5p0DK/pngwing-com.png" alt="Intelli J" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/7bP1GZXN/pngegg-8.png" alt="Android Studio" width="50" height="48"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://i.postimg.cc/vxm5p0DK/pngwing-com.png" alt="Intelli J" width="48" height="48"/> </a>
+    <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiOioz44_78AhURVWAKHe0OA-IYABAAGgJ0bQ&sig=AOD64_1OUrUSttAv8pJshT-iDC-MsDcwOg&q&adurl&ved=2ahUKEwinuob44_78AhUchlYBHa54BgoQ0Qx6BAgHEAE" target="_blank"> <img src="https://i.postimg.cc/7bP1GZXN/pngegg-8.png" alt="Android Studio" width="50" height="48"/> </a>
     <br>
-     <a href="" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>
+     <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-512.png" alt="ubuntu" width="48" height="48"/> </a>
     <a href="https://www.redhat.com/en" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/fedora.png" alt="RHEL" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/4Nd6Zr9p/pngegg-5.png" alt="apt" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/Ssv63dxW/pngegg-2.png" alt="maven" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/X7T5wXrY/pngegg.png" alt="gradle" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/7PBPvcDv/pngegg-4.png" alt="ant" width="52" height="52"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/MKJ3dZMd/tomca.png" alt="tomcat"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/d13sDmmN/pngegg-6.png" alt="yaml" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/jenkins.png" alt="jenkins" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="nexus sonatype" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
+    <a href="https://en.wikipedia.org/wiki/APT_(software)" target="_blank"> <img src="https://i.postimg.cc/4Nd6Zr9p/pngegg-5.png" alt="apt" width="48" height="48"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="https://i.postimg.cc/Ssv63dxW/pngegg-2.png" alt="maven" width="48" height="48"/> </a>
+    <a href="https://gradle.org/" target="_blank"> <img src="https://i.postimg.cc/X7T5wXrY/pngegg.png" alt="gradle" width="48" height="48"/> </a>
+    <a href="https://ant.apache.org/" target="_blank"> <img src="https://i.postimg.cc/7PBPvcDv/pngegg-4.png" alt="ant" width="52" height="52"/> </a>
+    <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://i.postimg.cc/MKJ3dZMd/tomca.png" alt="tomcat"/> </a>
+    <a href="https://yaml.org/" target="_blank"> <img src="https://i.postimg.cc/d13sDmmN/pngegg-6.png" alt="yaml" width="48" height="48"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/256/jenkins.png" alt="jenkins" width="48" height="48"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
+    <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"> <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="nexus sonatype" width="48" height="48"/> </a>
+    <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
