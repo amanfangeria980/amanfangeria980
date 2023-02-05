@@ -59,7 +59,7 @@
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/256/jenkins.png" alt="jenkins" width="48" height="48"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
     <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"> <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="nexus sonatype" width="48" height="48"/> </a>
-    <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
 <!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
