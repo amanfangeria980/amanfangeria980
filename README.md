@@ -43,18 +43,23 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" width="48" height="48"/> </a>
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="48" height="48"/> </a>
     <a><img src="https://www.pngall.com/wp-content/uploads/5/Vertical-Line-PNG-Images.png" alt="-><-" width="48" height="48"> </a>
+    <br>
      <a href="" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-512.png" alt="ubuntu" width="48" height="48"/> </a>
     <a href="https://www.redhat.com/en" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/fedora.png" alt="RHEL" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://i.postimg.cc/4Nd6Zr9p/pngegg-5.png" alt="apt" width="48" height="48"/> </a>
     <a href="" target="_blank"> <img src="https://i.postimg.cc/Ssv63dxW/pngegg-2.png" alt="maven" width="48" height="48"/> </a>
     <a href="" target="_blank"> <img src="https://i.postimg.cc/X7T5wXrY/pngegg.png" alt="gradle" width="48" height="48"/> </a>
-    <a href="" target="_blank"> <img src="https://i.postimg.cc/7PBPvcDv/pngegg-4.png" alt="ant" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://i.postimg.cc/7PBPvcDv/pngegg-4.png" alt="ant" width="52" height="52"/> </a>
     <a href="" target="_blank"> <img src="https://i.postimg.cc/MKJ3dZMd/tomca.png" alt="tomcat"/> </a>
-    <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a>
-        <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a>
-        <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a>
-        <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a>
-        <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://i.postimg.cc/d13sDmmN/pngegg-6.png" alt="yaml" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/jenkins.png" alt="jenkins" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="nexus sonatype" width="48" height="48"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
